@@ -1,0 +1,4 @@
+Equation: 3x^2 + -9x + 4 = 0 | Result: x1 = 2.457427107756338, x2 = 0.5425728922436619
+Equation: 3x^2 + -5x + 4 = 0 | Result: Complex Roots (No real solution)
+Equation: 3x^2 + -10x + 4 = 0 | Result: x1 = 2.86851709182133, x2 = 0.4648162415120036
+Equation: 3x^2 + -10x + 7 = 0 | Result: x1 = 2.3333333333333335, x2 = 1.0

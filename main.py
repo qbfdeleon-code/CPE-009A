@@ -1,0 +1,22 @@
+import dateandtime
+print("The current time is", dateandtime.current_time())
+
+import time
+
+def pause():
+    for i in range(10, 0, -1):
+        print(f"The program will end in {i}..")
+        time.sleep(1)
+
+def current_time():
+    t = time.strftime("%I:%M %p")
+    return t
+
+def current_date():
+    d = time.strftime("%b %d %Y")
+    return d
+
+from dateandtime import current_time, current_date
+
+print("The current time is", current_time())
+print("The current date is", current_date())
